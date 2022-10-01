@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../core/DoublyLinkedList.hpp
+EmptyException.hpp
+../core/EmptyException.hpp
+IteratorException.hpp
+../core/IteratorException.hpp
+
+../core/EmptyException.hpp
+
+../core/IteratorException.hpp
+
+../core/Queue.hpp
+DoublyLinkedList.hpp
+../core/DoublyLinkedList.hpp
+
+/home/ics46/projects/proj2/app/Simulation.cpp
+Simulation.hpp
+/home/ics46/projects/proj2/app/Simulation.hpp
+
+/home/ics46/projects/proj2/app/Simulation.hpp
+iostream
+-
+vector
+-
+Queue.hpp
+/home/ics46/projects/proj2/app/Queue.hpp
+string
+-
+algorithm
+-
+
